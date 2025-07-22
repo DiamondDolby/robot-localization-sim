@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ---
 
 ##🎥Screenshots
-#### Stored under ```assests/``` folder
+#### Stored under ```assets/``` folder
 
 ---
 
