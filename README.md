@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ---
 
 ##🎥Screenshots
-#### Stored under ```assests/``` folder
+#### Stored under ```assets/``` folder
 
 ---
 
@@ -72,7 +72,7 @@ python DispUpdated.py    # Enhanced visualization with heading arrow
 
 ## 🙋‍♂️ Author
 ### Sharavanan Mathivanan
-#### GitHub: https://github.com/DiamondDolby
-#### LinkedIn: https://www.linkedin.com/in/sharkycanada
+#### [GitHub](https://github.com/DiamondDolby)
+#### [LinkedIn](https://www.linkedin.com/in/sharkycanada)
 
 ---
