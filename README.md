@@ -19,7 +19,7 @@ This project implements a **2D robot localization system using a particle filter
 ### 🧱 Requirements
 
 - Python 3.7+
-- `numpy`
+- `NumPy`
 - `opencv-python`
 
 ### 📦 Set up environment
@@ -76,7 +76,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙋‍♂️ Author
 ### Sharavanan Mathivanan
-#### [GitHub](https://github.com/DiamondDolby)
 #### [LinkedIn](https://www.linkedin.com/in/sharkycanada)
 
 ---

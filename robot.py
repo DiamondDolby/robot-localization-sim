@@ -9,6 +9,9 @@ HEIGHT, WIDTH = map_img.shape
 
 map_blur = cv2.GaussianBlur(map_img, (7, 7), 0)
 
+# --- Robot & particles ---
+
+
 # Robot pose (floats)
 rx, ry, rtheta = (WIDTH / 4.0, HEIGHT / 4.0, 0.0)
 
